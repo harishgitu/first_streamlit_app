@@ -8,4 +8,4 @@ st.markdown(':cup_with_straw: Kale, Spinach & Rocket Smoothie')
 st.markdown(':chicken: Hard-Boiled Free-Range Egg')
 st.markdown(':avocado::bread: Avacado Toast')
 
-st.markdown(':banana::mango: <h3>Build Your Own Fruit Smoothie</h3> :kiwi_fruit::grapes:')
+st.markdown(':banana::mango:') + st.header('Build Your Own Fruit Smoothie') + st.markdown(' :kiwi_fruit::grapes:')
