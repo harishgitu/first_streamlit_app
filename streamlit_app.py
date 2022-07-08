@@ -1,8 +1,9 @@
-import streamlit
+import streamlit as st
 
-streamlit.title('My Parents New Healthy Diner')
+st.title('My Parents New Healthy Diner')
 
-streamlit.header('Breakfast Favorites')
-streamlit.text('Omega 3 & Blueberry Oatmeal')
-streamlit.text('Kale, Spinach & Rocket Smoothie')
-streamlit.markdown(':chicken: Hard-Boiled Free-Range Egg')
+st.header('Breakfast Favorites')
+st.markdown(':blueberries: Omega 3 & Blueberry Oatmeal')
+st.markdown(':leafy_green: Kale, Spinach & Rocket Smoothie')
+st.markdown(':chicken: Hard-Boiled Free-Range Egg')
+st.markdown(':avocado::bread: Avacado Toast')
